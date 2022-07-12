@@ -1,4 +1,3 @@
 # algorithm-notes
-个人用来记录算法学习的笔记
-笔记中代码多数来源于自己照模板或题解自己所code
-少数复制粘贴而来
+These notes records some solution in Luogu.
+Some are written by myself, some are excerpts.
